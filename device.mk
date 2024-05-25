@@ -1195,3 +1195,5 @@ include hardware/google/pixel/input/twoshay.mk
 # since it can't be overridden from /vendor.
 PRODUCT_PRODUCT_PROPERTIES += \
 	dumpstate.strict_run=false
+
+-include vendor/lineage-priv/keys/keys.mk
