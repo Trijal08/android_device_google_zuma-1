@@ -77,7 +77,6 @@ PRODUCT_SOONG_NAMESPACES += \
 	hardware/google/pixel \
 	device/google/zuma \
 	device/google/zuma/powerstats \
-	system/chre/host/hal_generic \
 	vendor/google/whitechapel/tools \
 	vendor/google/interfaces \
 	vendor/google_devices/common/proprietary/confirmatioui_hal \
